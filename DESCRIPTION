@@ -6,11 +6,11 @@ Authors@R:
            family = "Jendryczko",
            role = c("aut", "cre"),
            email = "david.jendryczko@uni-konstanz.de",
-           comment = c(ORCID = "0000-0002-5984-8765")),
+           comment = c(ORCID = "0000-0002-5984-8765"))
     person(given = "Laura",
            family = "Berkemeyer",
            role = c("ctb"),
-           email = "laura.berkemeyer@uni-muenster.de"),
+           email = "laura.berkemeyer@uni-muenster.de")
     person(given = "Heinz",
            family = "Holling",
            role = c("ctb"),
