@@ -18,4 +18,4 @@ RoxygenNote: 7.1.1
 Imports:
 	magick
 Depends: 
-    R (>= 3.6.3)
+    R (>= 3.0)
