@@ -5,7 +5,7 @@ Authors@R:
     person(given = "David",
            family = "Jendryczko",
            role = c("aut", "cre"),
-           email = "david.jendryczko@uni-konstanz.de",
+           email = "davidjendryczko@gmx.net",
            comment = c(ORCID = "0000-0002-5984-8765"))
 Description: The package creates and saves figural memory items based on rules grounded in a cognitive model.
 License: GPL-3
