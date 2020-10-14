@@ -6,16 +6,7 @@ Authors@R:
            family = "Jendryczko",
            role = c("aut", "cre"),
            email = "david.jendryczko@uni-konstanz.de",
-           comment = c(ORCID = "0000-0002-5984-8765")),
-    person(given = "Laura",
-           family = "Berkemeyer",
-           role = c("cre"),
-           email = "laura.berkemeyer@uni-muenster.de"),
-    person(given = "Heinz",
-           family = "Holling",
-           role = c("cre"),
-           email = "holling@uni-muenster.de",
-           comment = c(ORCID = "0000-0002-0311-3970"))
+           comment = c(ORCID = "0000-0002-5984-8765"))
 Description: The package creates and saves figural memory items based on rules grounded in a cognitive model.
 License: GPL-3
 URL: https://github.com/Jendryczko/figumem
