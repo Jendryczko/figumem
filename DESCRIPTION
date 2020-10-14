@@ -1,21 +1,21 @@
 Package: figumem
-Title: What the Package Does (One Line, Title Case)
+Title: An automatic item generator for figural short-term memory test items
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "David",
+           family = "Jendryczko",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "david.jendryczko@uni-konstanz.de",
+           comment = c(ORCID = "0000-0002-5984-8765"))
+Description: The package creates and saves figural memory items based on rules grounded in a cognitive model.
+License: GPL-3
+URL: https://github.com/Jendryczko/figumem
+BugReports: https://github.com/Jendryczko/figumem/issues
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports:
-	imager,
 	magick
 Depends: 
     R (>= 2.10)
